@@ -1,2 +1,3 @@
 # product_classification
-Product Classification Project Based on BERT Pre-trained Model
+
+Product Classification Project Based on BERT Pre-trained Model.

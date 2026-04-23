@@ -28,7 +28,3 @@ class Predictor:
             return res[0]
         else:
             return res
-
-
-def predict():
-    pass
